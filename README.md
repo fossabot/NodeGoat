@@ -113,7 +113,11 @@ Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/con
 
 ## Supports
 [![JetBrains](https://www.jetbrains.com/company/docs/logo_jetbrains.png?raw=true)](https://www.jetbrains.com/webstorm/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2FNodeGoat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2FNodeGoat?ref=badge_shield)
 - Thanks to JetBrains for providing licenses to fantastic WebStorm IDE to build this project.
 
 ## License
 Code licensed under the [Apache License v2.0.](http://www.apache.org/licenses/LICENSE-2.0)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2FNodeGoat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2FNodeGoat?ref=badge_large)
